@@ -2,7 +2,7 @@
 - 👀 I’m interested in Network Security and Cryptography
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on projects that'll help bolster my expertise and experience in the above mentioned fields
-- 📫 How to reach me: osho.boluwatife@gmail.com or 09169672648
+- 📫 How to reach me: osho.boluwatife@gmail.com or +2349169672648, +2348059555125
 
 <!---
 m-fxrgo/m-fxrgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
